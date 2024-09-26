@@ -518,13 +518,13 @@ Use last audio device?</source>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="308"/>
-        <source>W820NB Double Gold</source>
-        <translation>W820NB双金标版</translation>
+        <source>W820NB</source>
+        <translation></translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="309"/>
-        <source>W820NB</source>
-        <translation></translation>
+        <source>W820NB Double Gold</source>
+        <translation>W820NB双金标版</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="310"/>
